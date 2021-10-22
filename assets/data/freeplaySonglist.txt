@@ -2,4 +2,4 @@ Tutorial
 Bopeebo
 Fresh
 Dadbattle
-DBG
+Tutorial
